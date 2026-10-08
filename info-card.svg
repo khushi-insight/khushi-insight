@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="455" viewBox="0 0 600 455.2" role="img" aria-label="Khushi Kumari info card">
+<defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B8975A" stop-opacity="0.55"/><stop offset="1" stop-color="#3A342A" stop-opacity="0.35"/></linearGradient>
+<radialGradient id="glow" cx="85%" cy="0%" r="75%"><stop offset="0" stop-color="#B8975A" stop-opacity="0.20"/><stop offset="1" stop-color="#B8975A" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+text{font-family:'Fira Code','JetBrains Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace;font-size:12px}
+.key{fill:#B8975A;font-weight:700}
+.val{fill:#E8E0D0}
+.acc{fill:#B8975A}
+.dim{fill:#8A8272}
+.head{font-size:15px;font-weight:700}
+.title{fill:#8A8272;font-size:11px}
+.cur{fill:#B8975A;animation:blink 1.1s steps(1) infinite}
+.r{animation:fade .5s ease-out backwards}
+@keyframes blink{50%{opacity:0}}
+@keyframes fade{from{opacity:0;transform:translateY(2px)}to{opacity:1;transform:none}}
+</style>
+<rect x="0.5" y="0.5" width="599" height="454.2" rx="16" fill="#121211" stroke="url(#edge)"/>
+<rect x="0.5" y="0.5" width="599" height="454.2" rx="16" fill="url(#glow)"/>
+<circle cx="24" cy="18" r="5" fill="#6B5A3A"/><circle cx="42" cy="18" r="5" fill="#B8975A"/><circle cx="60" cy="18" r="5" fill="#7D8A6A"/>
+<text x="300.0" y="22" text-anchor="middle" class="title">khushi@portfolio: ~/profile</text>
+<rect x="0" y="34" width="600" height="1" fill="#2A2722"/>
+<g class="r" style="animation-delay:0.05s"><text x="28" y="64.0"><tspan class="dim">$</tspan> <tspan class="val">neofetch</tspan></text></g>
+<g class="r" style="animation-delay:0.15s"><text x="28" y="88.6" class="head"><tspan class="acc">khushi</tspan><tspan class="dim">@</tspan><tspan class="acc">portfolio</tspan></text></g>
+<rect x="28" y="96.6" width="544" height="1" fill="#3A342A"/>
+<g class="r" style="animation-delay:0.24s"><text y="112.2"><tspan x="28" class="key">Name</tspan><tspan x="128" class="val">Khushi Kumari</tspan></text></g>
+<g class="r" style="animation-delay:0.29s"><text y="128.8"><tspan x="28" class="key">Role</tspan><tspan x="128" class="val">MCA Student &amp; Web Developer</tspan></text></g>
+<g class="r" style="animation-delay:0.34s"><text y="145.4"><tspan x="28" class="key">Education</tspan><tspan x="128" class="val">MCA (pursuing)</tspan></text></g>
+<g class="r" style="animation-delay:0.38s"><text y="162.0"><tspan x="28" class="key">Prior</tspan><tspan x="128" class="val">BCA (completed)</tspan></text></g>
+<g class="r" style="animation-delay:0.42s"><text y="178.6"><tspan x="28" class="key">Location</tspan><tspan x="128" class="val">Dehradun, Uttarakhand</tspan></text></g>
+<rect x="28" y="190.6" width="544" height="1" fill="#2A2722"/>
+<g class="r" style="animation-delay:0.47s"><text y="205.2"><tspan x="28" class="key">Frontend</tspan><tspan x="128" class="val">HTML · CSS · JavaScript</tspan></text></g>
+<g class="r" style="animation-delay:0.52s"><text y="221.8"><tspan x="28" class="key">Backend</tspan><tspan x="128" class="val">PHP · Laravel</tspan></text></g>
+<g class="r" style="animation-delay:0.56s"><text y="238.4"><tspan x="28" class="key">Databases</tspan><tspan x="128" class="val">SQL · MySQL</tspan></text></g>
+<g class="r" style="animation-delay:0.60s"><text y="255.0"><tspan x="28" class="key">Interests</tspan><tspan x="128" class="val">Cloud Computing · Data Analytics</tspan></text></g>
+<rect x="28" y="267.0" width="544" height="1" fill="#2A2722"/>
+<g class="r" style="animation-delay:0.65s"><text y="281.6"><tspan x="28" class="key">Certs</tspan><tspan x="128" class="val">Web Development · PHP &amp; Laravel</tspan></text></g>
+<g class="r" style="animation-delay:0.70s"><text y="298.2"><tspan x="128" class="val">SQL &amp; Database · Cloud Computing</tspan></text></g>
+<rect x="28" y="310.2" width="544" height="1" fill="#2A2722"/>
+<g class="r" style="animation-delay:0.74s"><text y="324.8"><tspan x="28" class="key">Projects</tspan><tspan x="128" class="val">Creamer Cake · Hotel Management</tspan></text></g>
+<g class="r" style="animation-delay:0.78s"><text y="341.4"><tspan x="128" class="val">Student Registration · Personal Portfolio</tspan></text></g>
+<rect x="28" y="353.4" width="544" height="1" fill="#2A2722"/>
+<g class="r" style="animation-delay:0.83s"><text y="368.0"><tspan x="28" class="key">Learning</tspan><tspan x="128" class="val">Laravel · SQL · Cloud · Data Analytics</tspan></text></g>
+<g class="r" style="animation-delay:0.88s"><text y="384.6"><tspan x="28" class="key">Open to</tspan><tspan x="128" class="val">Projects · Internships · Opportunities</tspan></text></g>
+<g class="r" style="animation-delay:1.3s"><rect x="28" y="407.2" width="30" height="12" fill="#2A2722"/><rect x="58" y="407.2" width="30" height="12" fill="#3A342A"/><rect x="88" y="407.2" width="30" height="12" fill="#6B5A3A"/><rect x="118" y="407.2" width="30" height="12" fill="#8F7745"/><rect x="148" y="407.2" width="30" height="12" fill="#B8975A"/><rect x="178" y="407.2" width="30" height="12" fill="#B8975A"/><rect x="208" y="407.2" width="30" height="12" fill="#E3D3AE"/><rect x="238" y="407.2" width="30" height="12" fill="#FBF8F2"/></g>
+<text x="28" y="439.2"><tspan class="dim">$</tspan> <tspan class="cur">█</tspan></text>
+</svg>
